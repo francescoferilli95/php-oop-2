@@ -2,3 +2,6 @@
 /**
  *  PRODUCT CLASS
  */
+class Product {
+    
+}

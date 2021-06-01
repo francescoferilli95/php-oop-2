@@ -2,3 +2,6 @@
 /**
  *  USER CLASS
  */
+class User {
+    
+}
