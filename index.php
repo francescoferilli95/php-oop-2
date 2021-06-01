@@ -32,7 +32,7 @@ require_once __DIR__ . '/classes/Prime.php';
             <?php
             $user2 = new User('Riccardo', 'Alti', 25); ?>
 
-            <h3><?php echo $user1->getFullName(); ?></h3>
+            <h3><?php echo $user2->getFullName(); ?></h3>
             <div>
                 <p>Site discount: <?php echo $user2->getSale(); ?></p>
             </div>
